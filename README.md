@@ -4,4 +4,4 @@
 ## Group Members
 - Vivek R Rajkumar
 - Alon Leshem
-- et al. 
+- Kangying Zi 
