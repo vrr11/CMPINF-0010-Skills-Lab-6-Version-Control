@@ -17,4 +17,4 @@
 
 ## Why we chose the license and code of conduct we did?
 - MIT License: We don't mind others using our code for their own purposes.
-- Contribute Convenant Code of Conduct: We believe in the principles of the Contributor Covenant.
+- Contributor Convenant Code of Conduct: We believe in the principles of the Contributor Covenant.
