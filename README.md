@@ -13,7 +13,7 @@
 2. This should download a folder to your hard drive with the repository (it should be called <code>CMPINF-0010-Skills-Lab-6-Version-Control</code>).
 3. Double click the new folder in the file explorer. You should see the repository contents.
 4. Open the <code>Something™.ipynb</code> file in a Jupyter notebook.
-5. Follow the instructions with the pop-up boxes. Expectedly, you should see some printed out messages in the same format as the messages shown in the file in our repository.
+5. Run the cells in the Python notebook.
 
 ## Why we chose the license and code of conduct we did?
 - MIT License: We don't mind others using our code for their own purposes.
